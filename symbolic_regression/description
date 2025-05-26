@@ -1,0 +1,4 @@
+In this task I generate synthetic data (x,y,z,f(x,y,z)) for f(x,y,z) = ax^2+by^2+cz^2+dxy+exz+fyz+gx+hy+iz+j with known parameters.
+In formula_nn I try to find these parameters using neural network.
+In formula_symbolic_regression I try to find these parameters using symbolic regression.
+
